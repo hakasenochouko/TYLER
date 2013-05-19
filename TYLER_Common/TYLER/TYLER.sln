@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{2857B73E-F847-4B02-9238-064979017E93}") = "TYLER", "TYLER\TYLER.cproj", "{ABDF4C1D-1F26-45AA-901C-6B11F62EA287}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDF4C1D-1F26-45AA-901C-6B11F62EA287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDF4C1D-1F26-45AA-901C-6B11F62EA287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDF4C1D-1F26-45AA-901C-6B11F62EA287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDF4C1D-1F26-45AA-901C-6B11F62EA287}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TYLER\TYLER.cproj
+	EndGlobalSection
+EndGlobal
