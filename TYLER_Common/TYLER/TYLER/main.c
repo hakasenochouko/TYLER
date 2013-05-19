@@ -2,7 +2,7 @@
 /* Don't worry, this is just the setup */
 int main()
 {
-    printf( "Hello Mom!\n" );
+    printf( "Hello user!\n" );
     getchar();
     return 0;
 }
