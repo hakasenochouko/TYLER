@@ -1,9 +1,9 @@
 #include <stdio.h>
-
-int main (int argc, char *argv[])
+/* Don't worry, this is just the setup */
+int main()
 {
-	printf ("Hello world!\n");
-	
-	return 0;
+    printf( "Hello Mom!\n" );
+    getchar();
+    return 0;
 }
 
